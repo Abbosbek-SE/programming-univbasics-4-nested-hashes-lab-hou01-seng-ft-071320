@@ -77,7 +77,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    
+    progreammer_hash[:yukihiro_matsumoto]
 end
 
 def changing_alan
