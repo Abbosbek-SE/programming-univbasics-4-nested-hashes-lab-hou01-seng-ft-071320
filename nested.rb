@@ -77,7 +77,10 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    progreammer_hash[:yukihiro_matsumoto]
+    progreammer_hash[:yukihiro_matsumoto] = {
+      :known_for => "Ruby",
+      :languages => ["LISP", "C"]
+    }
 end
 
 def changing_alan
