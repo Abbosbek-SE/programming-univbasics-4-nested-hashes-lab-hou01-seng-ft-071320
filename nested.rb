@@ -35,7 +35,7 @@ def alan_kay_is_known_for
       }
     }
     
-    return programmer_hash[:known_for]
+    return programmer_hash[:grace_hopper][:known_for]
 
 end
 
