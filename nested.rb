@@ -57,7 +57,7 @@ def dennis_ritchies_language
       }
     }
     
-    return programmer_hash[:dennis_ritchie][:known_for];
+    return programmer_hash[:dennis_ritchie][:languages][0];
 
 end
 
