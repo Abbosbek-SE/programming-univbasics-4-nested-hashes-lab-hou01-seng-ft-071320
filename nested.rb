@@ -66,7 +66,7 @@ def adding_matz
       :known_for => "Ruby",
       :languages => ["LISP", "C"]
     }
-    return programmer_hash
+   
 	programmer_hash = 
  		{
       :grace_hopper => {
@@ -82,7 +82,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-   
+    return programmer_hash
 end
 
 def changing_alan
